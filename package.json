@@ -1,0 +1,24 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "trabajar con asincronismo en JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/solivaresr/asincronismo-en-javascript.git"
+  },
+  "keywords": [
+    "callbacks",
+    "primises",
+    "async"
+  ],
+  "author": "solivaresr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solivaresr/asincronismo-en-javascript/issues"
+  },
+  "homepage": "https://github.com/solivaresr/asincronismo-en-javascript#readme"
+}
